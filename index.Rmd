@@ -8,3 +8,4 @@ output: html_document
 # Test
 
 This is a test HTML file.
+これはHTMLファイルのテストです。
